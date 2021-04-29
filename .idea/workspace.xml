@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e33759a8-019d-49df-ae36-4ee1124d529d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/Model/content_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/Tutorial/loading_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Tutorial/LoadingPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Tutorial/Tutorial_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[5200364eb8b3c4cb]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qjN50AyHkdDCRUEp6E59EtyN2w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Poro\lib\Screens\Tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Poro\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e33759a8-019d-49df-ae36-4ee1124d529d" name="Default Changelist" comment="" />
+      <created>1617588851701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617588851701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619690789959">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619690789959" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1619623293728">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619623293728" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1619688514203">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619688514203" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1618447311499" />
+    <state width="1491" height="197" key="GridCell.Tab.0.bottom" timestamp="1619693759545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619693759545" />
+    <state width="1491" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1619604991470" />
+    <state width="1491" height="197" key="GridCell.Tab.0.center" timestamp="1619693759545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="197" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619693759545" />
+    <state width="1491" height="181" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1619604991470" />
+    <state width="1491" height="197" key="GridCell.Tab.0.left" timestamp="1619693759545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="197" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619693759545" />
+    <state width="1491" height="181" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1619604991470" />
+    <state width="1491" height="197" key="GridCell.Tab.0.right" timestamp="1619693759545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="197" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619693759545" />
+    <state width="1491" height="181" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1619604991470" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1619688581787">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/1920.0.1366.738@0.0.1536.834" timestamp="1619688581787" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1619604498910">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1619604498910" />
+  </component>
+</project>
